@@ -1,0 +1,27 @@
+
+.divhero_estilo{
+
+    display: flex;
+   flex-wrap: wrap;
+   justify-content: space-between;
+}
+
+
+img{
+
+    width: 300px;
+    border-bottom-style: solid ;
+    border-top-left-radius: 16px;
+    border-top-right-radius: 16px;
+
+}
+
+.personaje {
+
+    width: 300px;
+    margin: 10px;
+    border-style: solid;
+    border-radius: 16px;
+    text-align: center;
+
+}
